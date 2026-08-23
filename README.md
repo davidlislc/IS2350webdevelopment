@@ -1,4 +1,4 @@
-This is the repo for IS23500
+This is the repo for IS2350
 
 Topics
 
