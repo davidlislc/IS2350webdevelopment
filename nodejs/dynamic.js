@@ -2,21 +2,21 @@ const express = require('express');
 const app = express();
 
 const students = [
-  "George M Bundeh",
-  "Kc O Luczko",
-  "Seth D Russell",
-  "Andrew Gump",
-  "Mitchel Bechtold",
-  "Leviticus Land",
-  "Makail J Ruth",
-  "Logan M Ghast",
-  "Jayden M Simpson",
-  "Naina Kalra",
-  "Allen Calderon",
-  "Samuel R Rookstool",
-  "Chloe Silvers",
-  "Brayden R Kuppusami",
-  "Draco A Konno"
+  "George",
+  "Kc",
+  "Seth",
+  "Andrew",
+  "Mitchel",
+  "Leviticus",
+  "Makail",
+  "Logan",
+  "Jayden",
+  "Naina",
+  "Allen",
+  "Samuel",
+  "Chloe",
+  "Brayden",
+  "Draco"
 ];
 
 app.get('/', (req, res) => {
